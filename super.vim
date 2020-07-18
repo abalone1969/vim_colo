@@ -5,7 +5,7 @@ hi clear
 if exists("syntax_on")
   syntax reset
 endif
-let g:colors_name = "super.vim"
+let g:colors_name = "super"
 
 hi Comment             ctermfg=185            " #220 lines that have been commented out
 hi Constant            ctermfg=185              " #215 'contstants', "what's in quotes in tidal" or integers placed outside of a string
